@@ -3,6 +3,12 @@ This project provides a robust solution for automatic reading of analog gauges u
 
 ![image](https://github.com/user-attachments/assets/6fbcba94-8777-45fb-9f52-c9ef55adb7a8)
 
+## 📦 Pretrained Model
+
+You can download the pretrained YOLOv11 segment model for analog gauge reading here:
+
+🔗 [Download scale_segment.pt](https://huggingface.co/miyoshi4417/scale_segment/resolve/main/scale_segment.pt)
+
 ## 🔍 Background
 Analog meter reading methods typically fall into three categories:
 
