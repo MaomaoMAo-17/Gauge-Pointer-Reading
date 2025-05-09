@@ -41,9 +41,9 @@ if result.masks is not None:
 ## 📦 预训练模型
 
 可以下载训练好的预训练模型：
-```
+
 🔗 [Download scale_segment.pt](https://huggingface.co/miyoshi4417/scale_segment/resolve/main/scale_segment.pt)
-```
+
 或
 ```
 链接: https://pan.baidu.com/s/1A7XuUHMqnEvxv6KWA7m8dQ?pwd=jv44 提取码: jv44 
