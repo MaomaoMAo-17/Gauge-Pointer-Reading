@@ -38,6 +38,17 @@ if result.masks is not None:
             scale_boxes.append(seg)
 ```
 
+## 📦 预训练模型
+
+可以下载训练好的预训练模型：
+```
+🔗 [Download scale_segment.pt](https://huggingface.co/miyoshi4417/scale_segment/resolve/main/scale_segment.pt)
+```
+或
+```
+链接: https://pan.baidu.com/s/1A7XuUHMqnEvxv6KWA7m8dQ?pwd=jv44 提取码: jv44 
+```
+
 ## 📐 几何计算说明
 刻度线通常为圆形，但图像中因拍摄角度会变为椭圆。使用 cv2.fitEllipse 拟合更稳定：
 ```
